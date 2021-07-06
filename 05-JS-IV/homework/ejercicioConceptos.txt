@@ -1,0 +1,22 @@
+
+Ejercicio de Conceptos:
+
+Objetos:
+Los objetos son una colección de "propiedades". Estas propuedades a su vez poseen contenido llamado "valor". Los valores pueden ser strings, numbers, booleans, funciones, matrices e incluso otros objetos. 
+Los objetos permiten crear una estructura de datos.
+
+
+Propiedades:
+Las propiedades son un item de los objetos. Las propiedades no pueden repetirse dentro de un objeto, pero los valores sí.
+
+
+Métodos:
+Un método es equivalente a una función, solo que así se le llama a las funciones que están dentro de un objeto. Por ejemplo: .length, console.log, .push, etc, son funciones normales, pero por estar dentro de un objeto las llamaremos "métodos".
+
+
+Bucle for...in:
+Asi se llama el bucle que funciona en JS, ya que en JS no funcionan los bucles estándar. Su forma de escribir es muy parecida al bucle for nomal. El bucle "for.. in loop" se escribe de la siguiente manera : for, entre paréntesis se declara una variable, la palabra clave "in" más el nombre del objeto. Este bucle finalizará cuando el sistema haya revisado todas las propiedades y sus valores.
+
+
+Notación de punto: Es una forma de acceder al valor de una propiedad. Para usar la notación de punto es necesario conocer el nombre específico de la propiedad a revisar.
+Notación de corchetes: Es otra forma de acceder al valor de una propiedad. Pero aquí no es obligatorio conocer el nombre de la propiedad, ya que se puede acceder a ella con un string, un número o una variable que apunte a una cadena o número.
